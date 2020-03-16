@@ -1,0 +1,27 @@
+صحيح is token
+there is a white space
+س is token
+there is a white space
+، is delimeter
+ص is token
+؛ is delimeter
+س is token
+= is delimeter
+ص is token
++ is delimeter
+ع is token
+؛ is delimeter
+لو is token
+there is a white space
+ش is token
++ is delimeter
+ص is token
+؛ is delimeter
+كلما is token
+there is a white space
+س is token
++ is delimeter
+ص is token
+== is delimeter
+ع is token
+؛ is delimeter
